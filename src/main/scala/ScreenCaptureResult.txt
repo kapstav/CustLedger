@@ -1,0 +1,65 @@
++-----------------------------------------------------------------------------------------------------------------+
+|value                                                                                                            |
++-----------------------------------------------------------------------------------------------------------------+
+|{"provider_id":29893,"provider_name":"Camilla A Lakin","provider_specialty":"Cardiology","Visit_Count":20}       |
+|{"provider_id":71519,"provider_name":"Devyn C Lueilwitz","provider_specialty":"Cardiology","Visit_Count":28}     |
+|{"provider_id":19909,"provider_name":"Reese C Anderson","provider_specialty":"Cardiology","Visit_Count":17}      |
+|{"provider_id":642,"provider_name":"Jazmyn A Tremblay","provider_specialty":"Cardiology","Visit_Count":20}       |
+|{"provider_id":25024,"provider_name":"Frida B Rolfson","provider_specialty":"Cardiology","Visit_Count":28}       |
+|{"provider_id":91619,"provider_name":"Amie B Wolf","provider_specialty":"Cardiology","Visit_Count":18}           |
+|{"provider_id":87645,"provider_name":"Pink B Zulauf","provider_specialty":"Cardiology","Visit_Count":22}         |
+|{"provider_id":34104,"provider_name":"Andreanne B Murphy","provider_specialty":"Cardiology","Visit_Count":30}    |
+|{"provider_id":66791,"provider_name":"Ola B Schoen","provider_specialty":"Cardiology","Visit_Count":16}          |
+|{"provider_id":64785,"provider_name":"Greg C Parker","provider_specialty":"Cardiology","Visit_Count":20}         |
+|{"provider_id":52259,"provider_name":"Landen A Wilderman","provider_specialty":"Cardiology","Visit_Count":19}    |
+|{"provider_id":98830,"provider_name":"Cornelius B Gislason","provider_specialty":"Cardiology","Visit_Count":18}  |
+|{"provider_id":86183,"provider_name":"Louie C Prohaska","provider_specialty":"Cardiology","Visit_Count":24}      |
+|{"provider_id":28710,"provider_name":"Alessandro C Ritchie","provider_specialty":"Cardiology","Visit_Count":20}  |
+|{"provider_id":17847,"provider_name":"Candice C Block","provider_specialty":"Cardiology","Visit_Count":18}       |
+|{"provider_id":54111,"provider_name":"Else B Thiel","provider_specialty":"Cardiology","Visit_Count":20}          |
+|{"provider_id":30023,"provider_name":"Neoma A Runte","provider_specialty":"Cardiology","Visit_Count":29}         |
+|{"provider_id":20414,"provider_name":"Mathias B Pfannerstill","provider_specialty":"Cardiology","Visit_Count":30}|
+|{"provider_id":21227,"provider_name":"Kathlyn A Berge","provider_specialty":"Cardiology","Visit_Count":29}       |
+|{"provider_id":73774,"provider_name":"Werner B Hackett","provider_specialty":"Cardiology","Visit_Count":20}      |
++-----------------------------------------------------------------------------------------------------------------+
+only showing top 20 rows
+
++----------------------------------------------------+
+|value                                               |
++----------------------------------------------------+
+|{"SPECIALITY":"Sports Medicine","Visit_Count":53}   |
+|{"SPECIALITY":"Nephrology","Visit_Count":73}        |
+|{"SPECIALITY":"Rheumatology","Visit_Count":82}      |
+|{"SPECIALITY":"Optometry","Visit_Count":69}         |
+|{"SPECIALITY":"Geriatric Medicine","Visit_Count":55}|
+|{"SPECIALITY":"Urology","Visit_Count":118}          |
+|{"SPECIALITY":"Chiropractic","Visit_Count":46}      |
+|{"SPECIALITY":"Psychiatry","Visit_Count":67}        |
+|{"SPECIALITY":"Dermatology","Visit_Count":63}       |
+|{"SPECIALITY":"Cardiology","Visit_Count":74}        |
+|{"SPECIALITY":"Internal Medicine","Visit_Count":53} |
+|{"SPECIALITY":"Hematology","Visit_Count":66}        |
+|{"SPECIALITY":"Unknown Provider","Visit_Count":65}  |
+|{"SPECIALITY":"Gastroenterology","Visit_Count":59}  |
+|{"SPECIALITY":"General Practice","Visit_Count":57}  |
++----------------------------------------------------+
+
++--------------------+
+|               value|
++--------------------+
+|{"Month":"APR","p...|
+|{"Month":"AUG","p...|
+|{"Month":"DEC","p...|
+|{"Month":"FEB","p...|
+|{"Month":"JAN","p...|
+|{"Month":"JUL","p...|
+|{"Month":"JUN","p...|
+|{"Month":"MAR","p...|
+|{"Month":"MAY","p...|
+|{"Month":"NOV","p...|
+|{"Month":"OCT","p...|
+|{"Month":"SEP","p...|
++--------------------+
+
+
+Process finished with exit code 0
