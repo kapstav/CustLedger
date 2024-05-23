@@ -1,4 +1,4 @@
-# VisitCounter
+# CustLedger
 
 This project contains a Scala application to count provider visits and convert the results into a JSON format using Apache Spark.
 
