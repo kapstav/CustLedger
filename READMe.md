@@ -38,5 +38,5 @@ Before running the application, ensure you have the following software installed
 Open Command Prompt or Git Bash and run the following commands:
 
 ```sh
-git clone https://github.com/<your-username>/VisitCounter.git
-cd VisitCounter
+git clone https://github.com/kapstav/CustLedger.git
+cd CustLedger
